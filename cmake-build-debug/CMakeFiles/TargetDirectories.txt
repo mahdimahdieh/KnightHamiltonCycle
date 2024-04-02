@@ -1,3 +1,0 @@
-C:/Users/Mahdi/CLionProjects/DM/HW7/KnightHamiltonCycle/cmake-build-debug/CMakeFiles/KnightHamiltonCycle.dir
-C:/Users/Mahdi/CLionProjects/DM/HW7/KnightHamiltonCycle/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mahdi/CLionProjects/DM/HW7/KnightHamiltonCycle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
